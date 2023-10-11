@@ -40,7 +40,7 @@ function getPlayers(filename){
 		//console.log(allPlayers);
 		//console.log(allDivs);
 	}).then(tags => {
-		
+		//calculate average
 	});
 }
 
